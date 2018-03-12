@@ -1,0 +1,16 @@
+{
+  "name": "yann",
+  "version": "0.0.1",
+  "description": "Yet Another Neural Network",
+  "main": "./index.js",
+  "scripts": {
+    "test": "mocha --colors -w ./test/*.spec.js"
+  },
+  "author": {
+    "name": "Apache02",
+    "email": "gxad02@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
