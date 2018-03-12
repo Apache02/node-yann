@@ -28,7 +28,6 @@ class Model_Net extends Player
 		this.net = net || new yann.Network([
 			new yann.layers.Input(9),
 			new yann.layers.FullyConnected(32),
-			new yann.layers.FullyConnected(9),
 			new yann.layers.FullyConnected(1),
 		]);
 		
