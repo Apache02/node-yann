@@ -19,4 +19,4 @@ node game [FILE]
 
 ## Training process example
 
-(https://raw.githubusercontent.com/Apache02/node-yann/master/examples/ttt/training.png)
+![graph](https://github.com/Apache02/node-yann/blob/master/examples/ttt/training.png)
